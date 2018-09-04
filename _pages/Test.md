@@ -4,7 +4,7 @@ permalink: /Test/
 title: "Just for testing"
 author_profile: true
 header:
-  image: "/images/P_20170819_172106.jpg"
+  image: "/images/FB_IMG_1531193471521.jpg"
 ---
 
 {% include base_path %}
