@@ -1,12 +1,11 @@
 ---
-layout: single
+classes: wide
 permalink: /My-work-in-HEP/
 title: "My work in HEP"
 author_profile: true
 header:
   image: "/images/P_20170819_172106.jpg"
 mathjax: "true"
-classes: wide
 ---
 
 I started working on high-energy experimental physics when I was in my junior year in college. My main analysis is to search for the rare decays of Z and Higgs bosons to J/&psi; meson plus photon at $$\sqrt{s}$$ = 13 TeV in CMS (Compact Muon Solenoid) Collaboration [1]. This rare decay of the Z boson is the first search in the CMS.
