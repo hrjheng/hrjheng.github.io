@@ -1,6 +1,7 @@
 ---
-title: "Wide Single Layout Page"
+layout: single
 classes: wide
+title: "Wide Single Layout Page"
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 tags: [Test wide page]
 ---
