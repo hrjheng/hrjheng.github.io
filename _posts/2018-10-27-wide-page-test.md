@@ -2,6 +2,7 @@
 title: "Wide Single Layout Page"
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
+tags: [Test wide page]
 ---
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
