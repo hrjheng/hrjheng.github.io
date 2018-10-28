@@ -15,7 +15,8 @@ Apart from these two, I attended HGCAL (High Granularity Calorimeter) beam test 
 
 ### Reference ###
 
-[1] [CMS-PAS-SMP-17-012 (target journal: EPJC)](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SMP-17-012/index.html)
+[1] [CMS public results ](http://cms-results.web.cern.ch/cms-results/public-results/publications/SMP-17-012/index.html)
+, and also on [arXiv:1810.10056](https://arxiv.org/abs/1810.10056).
 
 [2] [Search for the decay of a Higgs boson in the $$\ell\ell\gamma$$ channel in proton-proton collisions at $$\sqrt{s}$$=13 TeV (paper submiited to JHEP)](http://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-17-007/index.html)
 
