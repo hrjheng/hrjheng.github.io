@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Hao-Ren Jheng"
   avatar           : "/images/IMG_20180707_212427_041.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My personal website"
+  bio              : ""
   location         : "Taiwan"
   email            :
   uri              :
