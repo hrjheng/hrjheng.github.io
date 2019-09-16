@@ -13,7 +13,16 @@ I joined the experimental HEP group in National Central University (NCU, Taiwan)
  Apart from these two, I attended beam tests for High Granularity Calorimeter (HGCal) [[3]](#ref). The only thing I could contribute is to take the shifts and follow the instructions to take data. The 2016 HGCAL beamtest paper was published in JINST [[4]](#ref), which is also the first paper on this CMS upgrade project. Before I graduate from my master degree, I will go to CERN again and stay there for around 3 months to participate in the last beam test in the following two years. Hopefully I can learn more about the hardware and have deeper understanding of how the detectors work. Other than the HGCAL work,
 {: style="text-align: justify;"}
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="500" class="align-center">
+[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="500" class="align-center">)
+
+{% capture fig_img %}
+![Foo]({{ "/images/201811-333_01.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from CERN Courier.</figcaption>
+</figure>
 
 Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publication</a>.
 
@@ -30,3 +39,5 @@ Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" ta
 [3] You can find me in the last picture from this [blog](http://cylindricalonion.web.cern.ch/blog/201608/test-beam-tales-days-6-and-7) :taiwan:.
 
 [4] First beam tests of prototype silicon modules for the CMS High Granularity Endcap Calorimeter, [JINST 13 (2018) no.10, P10023](http://iopscience.iop.org/article/10.1088/1748-0221/13/10/P10023/meta)
+
+[5] CERN Courier [Jan/Feb 2019](https://cerncourier.com/wp-content/uploads/2019/04/CERNCourier2019JanFeb-digitaledition.pdf)
