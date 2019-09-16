@@ -14,7 +14,7 @@ In addition to the physics analyses, I worked on the measurement of electron vet
 {: style="text-align: justify;"}
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_CSEV.png" alt="" width="400"> <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_PixelSeed.png" alt="" width="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_CSEV.png" alt="" width="600"> <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_PixelSeed.png" alt="" width="600">
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Summary plots of measurement of electron veto efficiency for dataset collected in 2017.</figcaption>
