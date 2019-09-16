@@ -43,10 +43,10 @@ To wrap up, here is a summary list of my publications:
 
 * Oral presentation
   1. <a href="https://hrjheng.github.io/pdfs/Pheno2019-CMSRareDecays.pdf" target="_blank">Searches for rare decays of the Higgs boson at CMS</a>, Phenomenology Symposium 2019, University of Pittsburgh
-  2. <a href="https://hrjheng.github.io/pdfs/Korea_Diboson_20170915.pdf" target="_blank"> Title="Study of Higgs and Z boson decaying into J/&psi + &gamma in pp collisions at &radics=13TeV"</a>, Taiwan Korea joint workshop on particle physics, Seoul National University
+  2. [Study of Higgs and Z boson decaying into J/&psi + &gamma in pp collisions at &radics=13TeV](https://hrjheng.github.io/pdfs/Korea_Diboson_20170915.pdf), Taiwan Korea joint workshop on particle physics, Seoul National University
 
 * Poster presentation
-  1. <a href="https://hrjheng.github.io/pdfs/Poster_TPS2019.pdf" target="_blank"> Title="Rare decays of the Higgs boson in the llγ final states in pp collisions at &radics=13 TeV"</a>, 2019 Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan
+  1. <a href="https://hrjheng.github.io/pdfs/Poster_TPS2019.pdf" target="_blank">Rare decays of the Higgs boson in the llγ final states in pp collisions at &radics=13 TeV</a>, 2019 Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan
 
 Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publications</a>.
 
