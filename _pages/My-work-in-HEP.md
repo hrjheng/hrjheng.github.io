@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /My-work-in-HEP/
-title: "My work in HEP"
+title: "My experience in HEP"
 author_profile: true
 mathjax: "true"
 ---
@@ -24,11 +24,11 @@ In addition to the physics analyses, I worked on the measurement of electron vet
 Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [[1]](#ref). The paper sumarizing the beamtest in 2016 was published in Journal of Instrumentation. Before I graduated from my master degree, I went to CERN again and stayed there for 3 months to participate in the last beamtest in the following two years (the LHC was scheduled for long shut down). I took shifts to monitor the data taking, and also involved in the study on the energy reconstruction using boosted decision tree method and electron identification. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
 {: style="text-align: justify;"}
 
-[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="500" class="align-center">)
+<img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="500" class="align-center">
 
-{% capture fig_img %}
+[//]: # ({% capture fig_img %}
 ![Foo]({{ "/images/201811-333_01.jpg" | relative_url }})
-{% endcapture %}
+{% endcapture %})
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
