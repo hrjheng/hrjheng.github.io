@@ -13,9 +13,9 @@ I joined the experimental HEP group in National Central University (NCU, Taiwan)
 In addition to the physics analyses, I worked on the measurement of electron veto efficiency for 2017 and 2018 data taking period under the electron-photon physics object group. Although the procedures were similar to previous measurements, I refined the uncertainty estimation for the dataset collected in 2018.
 {: style="text-align: justify;"}
 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_CSEV.png" alt="" width="400" class="align-left"> <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_PixelSeed.png" alt="" width="400" class="align-right">
 {% capture fig_img_eleveto %}
-![Foo]({{ "/images/ElectronVeto_2017/CombHist_CSEV.png" | relative_url }} =300x)
-![Foo]({{ "/images/ElectronVeto_2017/CombHist_PixelSeed.png" | relative_url }} =300x)
 {% endcapture %}
 
 <figure>
