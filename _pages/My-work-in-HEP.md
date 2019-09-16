@@ -14,8 +14,8 @@ In addition to the physics analyses, I worked on the measurement of electron vet
 {: style="text-align: justify;"}
 
 {% capture fig_img_eleveto %}
-![Foo]({{ "/images/ElectronVeto_2017/CombHist_CSEV.png" | relative_url }}){ width=50% }
-![Foo]({{ "/images/ElectronVeto_2017/CombHist_PixelSeed.png" | relative_url }}){ width=50% }
+![Foo]({{ "/images/ElectronVeto_2017/CombHist_CSEV.png" | relative_url }} =300x)
+![Foo]({{ "/images/ElectronVeto_2017/CombHist_PixelSeed.png" | relative_url }} =300x)
 {% endcapture %}
 
 <figure>
