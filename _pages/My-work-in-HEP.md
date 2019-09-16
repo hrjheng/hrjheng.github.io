@@ -15,13 +15,13 @@ In addition to the physics analyses, I worked on the measurement of electron vet
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_CSEV.png" alt="" width="400" class="align-left"> <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_PixelSeed.png" alt="" width="400" class="align-right">
-{% capture fig_img_eleveto %}
-{% endcapture %}
+
 
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Summary plots of measurement of electron veto efficiency for dataset collected in 2017.</figcaption>
 </figure>
+
 
 Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [[3]](#ref). The paper sumarizing the beamtest in 2016 was published in Journal of Instrumentation [[4]](#ref). Before I graduated from my master degree, I went to CERN again and stayed there for 3 months to participate in the last beamtest in the following two years (the LHC was scheduled for long shut down). I took shifts to monitor the data taking, and also involved in the study on the energy reconstruction using boosted decision tree method and electron identification. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
 {: style="text-align: justify;"}
