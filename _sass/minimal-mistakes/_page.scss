@@ -432,21 +432,21 @@
 .wide {
   .page {
     @include breakpoint($large) {
-      padding-right: $right-sidebar-width-narrow;
+      padding-right: 0;
     }
 
     @include breakpoint($x-large) {
-      padding-right: $right-sidebar-width-narrow;
+      padding-right: 0;
     }
   }
 
   .page__related {
     @include breakpoint($large) {
-      padding-right: $right-sidebar-width-narrow;
+      padding-right: 0;
     }
 
     @include breakpoint($x-large) {
-      padding-right: $right-sidebar-width-narrow;
+      padding-right: 0;
     }
   }
 }
