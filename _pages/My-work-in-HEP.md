@@ -35,7 +35,20 @@ Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [
   <figcaption>Photo from CERN Courier [5].</figcaption>
 </figure>
 
-Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publication</a>.
+To wrap up, here is a summary list of my publications:
+* Paper
+  1. Search for rare decays of Z and Higgs bosons to J/&psi; and a photon in proton-proton collisions at $$\sqrt{s}$$ = 13 TeV, [Eur. Phys. J. C 79 (2019)94](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-6562-5), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/SMP-17-012/index.html)
+  2. Search for the decay of a Higgs boson in the $$\ell\ell\gamma$$ channel in proton-proton collisions at $$\sqrt{s}$$=13 TeV, [JHEP 11 (2018) 152](https://link.springer.com/article/10.1007%2FJHEP11%282018%29152), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-17-007/index.html)
+  3. First beam tests of prototype silicon modules for the CMS High Granularity Endcap Calorimeter, [JINST 13 (2018) no.10, P10023](http://iopscience.iop.org/article/10.1088/1748-0221/13/10/P10023/meta)
+
+* Oral presentation
+  1. <a href="https://hrjheng.github.io/pdfs/Pheno2019-CMSRareDecays.pdf" target="_blank">Searches for rare decays of the Higgs boson at CMS</a>, Phenomenology Symposium 2019, University of Pittsburgh
+  2. <a href="https://hrjheng.github.io/pdfs/Korea_Diboson_20170915.pdf" target="_blank">Study of Higgs and Z boson decaying into J/&psi + &gamma in pp collisions at &radics=13TeV</a>, Taiwan Korea joint workshop on particle physics, Seoul National University
+
+* Poster presentation
+  1. <a href="https://hrjheng.github.io/pdfs/Poster_TPS2019.pdf" target="_blank">Rare decays of the Higgs boson in the llγ final states in pp collisions at &radics=13 TeV</a>, 2019 Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan
+
+Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publications</a>.
 
 [//]: # (<embed src="https://hrjheng.github.io/pdfs/Selected_publication.pdf" type="application/pdf" />)
 
