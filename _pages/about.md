@@ -7,7 +7,7 @@ permalink: /about/
 - [My college life](#paragraph2)
 
 <figure>
-  <img src="/images/Course-vs-Grade-Major.png" class="align-center">
+  <img src="/images/Course-vs-Grade-Major.png" style="width:70%" class="align-center">
   <figcaption>Grades for all taken courses in major field.</figcaption>
 </figure>
 
