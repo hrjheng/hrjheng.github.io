@@ -26,10 +26,6 @@ Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="700" class="align-center">
 
-[//]: # ({% capture fig_img %})
-[//]: # (![Foo]({{ "/images/201811-333_01.jpg" | relative_url }}))
-[//]: # ({% endcapture %})
-
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from CERN Courier [2].</figcaption>
