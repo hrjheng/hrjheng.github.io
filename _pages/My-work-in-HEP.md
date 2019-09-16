@@ -7,10 +7,23 @@ author_profile: true
 mathjax: "true"
 ---
 
-I joined the experimental HEP group in National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis with Professor Chia-Ming Kuo as my supervisor. My main analysis was **search for rare decays of Z and Higgs bosons to J/&psi; and a photon in proton-proton collisions at $$\sqrt{s}$$ = 13 TeV** in Compact Muon Solenoid (CMS) Collaboration. The decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to the quarkonium stste in CMS. In the first year of my master degree, I had the opportunity to serve the contact person of the analysis. I've successfully went through the internal review process in CMS Collaboration, including giving the pre-approval talk, going through the analysis review committee's review, giving approval talk and getting approved by convenors, addressing comments from collaboration wide review and final reading. The final results were published at The European Physical Journal C [[1]](#ref). I also helped on measuring the trigger efficiency and building up the background estimation method in the Higgs Dalitz decay (a Higgs boson decays into a virtual photon and a real photon, where the virtual photon subsequently decays into a pair of muons) [[2]](#ref).
+I joined the experimental HEP group in National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis with Professor Chia-Ming Kuo as my supervisor. My main analysis was **search for rare decays of Z and Higgs bosons to J/&psi; and a photon in proton-proton collisions at $$\sqrt{s}$$ = 13 TeV** in Compact Muon Solenoid (CMS) Collaboration. The decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to the quarkonium stste in CMS. In the first year of my master degree, I had the opportunity to serve the contact person of the analysis. I've successfully passed through the internal review process in CMS Collaboration, including giving the pre-approval talk, going through the analysis review committee's review, giving approval talk and getting approved by convenors, addressing comments from collaboration wide review and final reading. The final results were published at the European Physical Journal C [[1]](#ref). I also participated in the analysis of Higgs Dalitz decay (a Higgs boson decays into a virtual photon and a real photon, where the virtual photon subsequently decays into a pair of muons), mainly on measuring the trigger efficiency and building up the background estimation method. The results were published at Journal of High Energy Physics [[2]](#ref).
 {: style="text-align: justify;"}
 
- Apart from these two, I attended beam tests for High Granularity Calorimeter (HGCal) [[3]](#ref). The only thing I could contribute is to take the shifts and follow the instructions to take data. The 2016 HGCAL beamtest paper was published in JINST [[4]](#ref), which is also the first paper on this CMS upgrade project. Before I graduate from my master degree, I will go to CERN again and stay there for around 3 months to participate in the last beam test in the following two years. Hopefully I can learn more about the hardware and have deeper understanding of how the detectors work. Other than the HGCAL work,
+In addition to the physics analyses, I worked on the measurement of electron veto efficiency for 2017 and 2018 data taking period under the electron-photon physics object group. Although the procedures were similar to previous measurements, I refined the uncertainty estimation for the dataset collected in 2018.
+{: style="text-align: justify;"}
+
+{% capture fig_img_eleveto %}
+![Foo]({{ "/images/ElectronVeto_2017/CombHist_CSEV.png" | relative_url }})
+![Foo]({{ "/images/ElectronVeto_2017/CombHist_PixelSeed.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Summary plots of measurement of electron veto efficiency for dataset collected in 2017.</figcaption>
+</figure>
+
+Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [[3]](#ref). The paper sumarizing the beamtest in 2016 was published in Journal of Instrumentation [[4]](#ref). Before I graduated from my master degree, I went to CERN again and stayed there for 3 months to participate in the last beamtest in the following two years (the LHC was scheduled for long shut down). I took shifts to monitor the data taking, and also involved in the study on the energy reconstruction using boosted decision tree method and electron identification. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
 {: style="text-align: justify;"}
 
 [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/201811-333_01.jpg" alt="" width="500" class="align-center">)
@@ -21,7 +34,7 @@ I joined the experimental HEP group in National Central University (NCU, Taiwan)
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from CERN Courier.</figcaption>
+  <figcaption>Photo from CERN Courier[5].</figcaption>
 </figure>
 
 Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publication</a>.
