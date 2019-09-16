@@ -25,7 +25,7 @@ Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [
 {: style="text-align: justify;"}
 
 <figure>
-  <img src="/images/201811-333_01.jpg" alt="" style="width:70%" class="align-center">
+  <img src="/images/201811-333_01.jpg" style="width:70%" class="align-center">
   <figcaption>Photo from CERN Courier [2].</figcaption>
 </figure>
 
