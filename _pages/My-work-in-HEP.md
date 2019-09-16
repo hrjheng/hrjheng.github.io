@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /My-work-in-HEP/
 title: "My work in HEP"
 author_profile: true
