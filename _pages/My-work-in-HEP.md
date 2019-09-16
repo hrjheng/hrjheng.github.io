@@ -34,7 +34,7 @@ Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from CERN Courier[5].</figcaption>
+  <figcaption>Photo from CERN Courier [5].</figcaption>
 </figure>
 
 Here is the <a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">full list of my publication</a>.
