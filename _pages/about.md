@@ -17,6 +17,12 @@ The report of the final project of the 2-year experimental physics course: <a hr
 
 The report of 2015 UCAT (University Consortium of ALMA–Taiwan) Summer Student Program: <a href="https://hrjheng.github.io/pdfs/Star_formation_efficiency_in_CentaurusA.pdf" target="_blank">Star_formation_efficiency_in_CentaurusA.pdf</a>
 
+I won the Zhu-Shun Yi He Qin Scholarship, which is one of the highest honor in NCU. 
+<figure>
+  <img src="/images/The_Zhu_Shun_Yi_He_Qin_Scholarship_photo.png" style="width:70%" class="align-center">
+  <figcaption>The Zhu-Shun Yi He Qin Scholarship ("He Qin" in Chinese means diligent and hard-working).</figcaption>
+</figure>
+
 <figure>
   <img src="/images/Course-vs-Grade-Major.png" style="width:70%" class="align-center">
   <figcaption>Grades for all taken courses in major field.</figcaption>
