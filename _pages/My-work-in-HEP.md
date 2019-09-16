@@ -5,6 +5,8 @@ permalink: /My-work-in-HEP/
 title: "My work in HEP"
 author_profile: true
 mathjax: "true"
+header:
+  image: "/images/201811-333_01.jpg"
 ---
 
 I joined the HEP group in National Central University (NCU) to work on my undergraduate project when I was junior. My main analysis is to search for the rare decays of the Z and Higgs bosons to J/&psi; meson and a photon at $$\sqrt{s}$$ = 13 TeV in CMS (Compact Muon Solenoid) Collaboration [1]. [INTRODUCE THIS ANALYSIS] The process $$Z\to J/\psi+\gamma$$ is the first search on this decay in CMS. In my first year of master degree, I had the opportunity to be the contact of this analysis. Giving the pre-approval talk, going through ARC (analysis review committee) review, getting approved by convenors, and addressing all the comments from CWR (collaboration wide review) and final reading, these are the most challenging tasks I've ever carried out.
