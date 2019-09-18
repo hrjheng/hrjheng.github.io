@@ -3,6 +3,8 @@ title: "About me"
 permalink: /about/
 ---
 
+Personal CV: <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">cv</a>
+
 - [Before college](#paragraph1)
 - [My college life](#paragraph2)
 
