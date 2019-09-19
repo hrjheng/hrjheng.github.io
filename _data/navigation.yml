@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About me"
+  - title: "About"
     url: /about/
-  - title: "My work in HEP"
-    url: /My-work-in-HEP/
-  - title: "Test"
+  - title: "Experience"
+    url: /Experience/
+  - title: "Post"
     url: /Test/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
