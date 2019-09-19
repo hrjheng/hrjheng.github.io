@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /My-work-in-HEP/
+permalink: /Experience/
 title: "My experience in HEP"
 author_profile: true
 mathjax: "true"
