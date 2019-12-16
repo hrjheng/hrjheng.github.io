@@ -87,18 +87,27 @@ mathjax: "true"
 4. Inference題與Summary題的正確與否呈負相關，但兩者誤差有重疊
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-1.png" style="width:85%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-1.png" style="width:75%" class="align-center">
   <figcaption>各題型正確率與Summary正確與否的關聯性</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-2.png" style="width:55%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-2.png" style="width:40%" class="align-center">
   <figcaption>各題型正確率與Summary正確與否的關聯性</figcaption>
 </figure>
 
 **文章內容科目**：大致上包含社會科學(Social science)、自然科學(Natural Science)、環境地理(Geography/Environment/Energy)、生物生態(Biology/Ecology)、天文(Astronomy)、藝術文化歷史(Art/Culture)、考古人類學(Anthropology/Archeology)。我在各個科目文章的正確率如下圖。很明顯的，藝術文化歷史和考古人類學是我比較弱的文章類型，我認為可能原因是我本身理工科，對於文化歷史科目比較無法掌握文章邏輯，且對於這類型的文章我也常常需要花比較多時間作答。
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-閱讀科目答題率.png" style="width:65%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-閱讀科目答題率.png" style="width:50%" class="align-center">
   <figcaption>各科目文章答題率</figcaption>
 </figure>
+
+最後，我也計算了我從開始準備到二戰考前兩週的累計答題率(Accumulated accuracy)和移動平均答題率(Moving accuracy)。由於我是按照TPO回數來做題，因此TPO number其實等同於日期(除了中間幾篇有跳回做)。累計答題率的計算方式為包含該篇文章以前的總答題率，而移動平均答題率則為以該篇文章為中心加上前後兩篇文章的答題率。灰色曲線則為Numbers裡內建計算移動平均的函式，計算方式與我自己的方式可能有差別，但整體趨勢相似(似乎只是向右平移)。雖然答題率起起伏伏，但整體趨勢還是朝低答錯率提升。
+
+<figure>
+  <img src="/images/TOEFL_prep/Reading-累進及移動平均答題率.png" style="width:80%" class="align-center">
+  <figcaption>累計答題率(Accumulated accuracy)和移動平均答題率(Moving accuracy)</figcaption>
+</figure>
+
+---
