@@ -75,8 +75,9 @@ mathjax: "true"
 在四大類題型正確率則如下圖。整體來說，我對於文章整體架構的掌握有待加強。就總正確率來看，我的作答狀況大概能維持在一篇文章14題會錯一題左右，也就是平均上來說一整回TPO三篇文章總共錯三題左右。以大部分網站給出的估計分數對應表約是27~28分。
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-四大類題型答題率.png" style="width:85%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-四大類題型答題率.png" style="width:85%"
   <figcaption>四大類題型正確率和總體正確率(Total)</figcaption>
+  class="align-center">
 </figure>
 
 我也很好奇我在各個題型的正確率之間是否有關聯性，因此我也計算在Summary題答對(SumQ=1)或答錯(SumQ=0)的狀況下，其餘題目類型的正確率。從如下兩張圖表，我發現：  
