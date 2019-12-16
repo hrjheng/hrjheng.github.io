@@ -111,3 +111,27 @@ mathjax: "true"
 </figure>
 
 ---
+# **Listening**&mdash;一戰27進步到二戰26
+我個人的聽力問題是，大部分內容都聽得懂，但是對於要邊聽邊記筆記非常苦手。SK2顧問對聽力則是強調八大點。我個人認為，八大點不僅僅是在托福聽力中重要的答題技巧，更是英文聽力中非常重要的英文能力，熟悉八大點後便可以比較容易判斷哪些是重要的資訊，又有哪些是不那麼重要的訊息。除了八大點，我認為聽力的部分也要找到自己習慣和舒服的方式，如果能夠裸聽並且理解conversation和lecture的內容，那不抄筆記其實不會影響作答(套一句Rosa顧問說的，要相信自己的腦袋)。我自己到後來練習時，conversation是不做筆記，lecture才會做筆記。不過比較奇怪的地方是，conversation我反而做得比lecture不穩(下面分析還會提及)，早期練習時我有練習過幾篇lecture完全不做筆記，答題率還能再錯一題甚至不錯的狀態。
+
+實際考試時是聽力加試，我遇到的第一篇conversation偏難又偏長，包含五題內的兩題多選題總共有三題我非常不確定，所以蠻有可能最後分數出來比一戰退步一分就是錯在這篇conversation。除了第一篇爆難conversation，後面的題目難度上我感覺都不會比TPO40回後的題目還難，甚至比較簡單，到最後答完題目我還剩下不少時間(我便利用這些時間聽已經開始口說的考生講口說和猜口說獨立題的題目:P)
+
+除了練習TPO，我平常也會聽Podcast和Ted-ed及其他外國YouTuber的影片。我在聽的Podcast如下：
+1. [Crime Junkie](https://crimejunkiepodcast.com/)
+2. [Radiolab](https://www.wnycstudios.org/podcasts/radiolab)
+3. [Freakonomics radio](http://freakonomics.com/)
+4. [Science Magazine Podcast](https://www.sciencemag.org/podcasts)
+5. [Physics World Weekly Podcast](https://physicsworld.com/l/audio/)
+6. [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
+7. [Science VS](https://gimletmedia.com/shows/science-vs)
+8. [99% invisible](https://99percentinvisible.org/)
+9. [Not overthinking](https://www.notoverthinking.com/)
+
+相同於閱讀，我也記錄了答題狀況。聽力題型主要有：
+1. Main idea主旨題，以下簡稱MP
+2. Detail細節題。Detail題又可再細分為(1)Simply detail question，簡稱D-s; (2)Purpose目的題，簡稱D-p; (3)multiple multiple-choice 複選題，簡稱D-m; (4)因果題(題目敘述類似“Why did xxx do sth…”)，簡稱D-w
+3. Inference/imply/Suggest/Indicate推論題，簡稱I
+4. Attitude態度題，簡稱A
+5. Structure結構題，簡稱S (此題型出現在lecture，題目敘述會類似 “How does the professor organize the information……”)
+6. Listen again重聽題，簡稱LA
+下圖這些題型的出題比例，統計資料來自TPO。大致上lecture和conversation各類型的出題比例是類似的。
