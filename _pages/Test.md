@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /Test/
-title: "Test page"
+permalink: /Post/
+title: "Post"
 author_profile: true
 ---
 
