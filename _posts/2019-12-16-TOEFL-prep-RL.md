@@ -76,8 +76,8 @@ mathjax: "true"
 
 <figure>
   <img src="/images/TOEFL_prep/Reading-四大類題型答題率.png" style="width:85%"
-  <figcaption>四大類題型正確率和總體正確率(Total)</figcaption>
   class="align-center">
+  <figcaption>四大類題型正確率和總體正確率(Total)</figcaption>
 </figure>
 
 我也很好奇我在各個題型的正確率之間是否有關聯性，因此我也計算在Summary題答對(SumQ=1)或答錯(SumQ=0)的狀況下，其餘題目類型的正確率。從如下兩張圖表，我發現：  
@@ -85,3 +85,20 @@ mathjax: "true"
 2. 考察字詞意思(“點”)的正確率與Summary題的正確與否幾乎不相干
 3. Highlight題與 Sentence insertion題的正確率與Summary題的正確與否呈正相關(考量誤差值後仍然為正相關)
 4. Inference題與Summary題的正確與否呈負相關，但兩者誤差有重疊
+
+<figure>
+  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-1.png" style="width:85%" class="align-center">
+  <figcaption>各題型正確率與Summary正確與否的關聯性</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-2.png" style="width:85%" class="align-center">
+  <figcaption>各題型正確率與Summary正確與否的關聯性</figcaption>
+</figure>
+
+**文章內容科目**：大致上包含社會科學(Social science)、自然科學(Natural Science)、環境地理(Geography/Environment/Energy)、生物生態(Biology/Ecology)、天文(Astronomy)、藝術文化歷史(Art/Culture)、考古人類學(Anthropology/Archeology)。我在各個科目文章的正確率如下圖。很明顯的，藝術文化歷史和考古人類學是我比較弱的文章類型，我認為可能原因是我本身理工科，對於文化歷史科目比較無法掌握文章邏輯，且對於這類型的文章我也常常需要花比較多時間作答。
+
+<figure>
+  <img src="/images/TOEFL_prep/Reading-閱讀科目答題率.png" style="width:85%" class="align-center">
+  <figcaption>各科目文章答題率</figcaption>
+</figure>
