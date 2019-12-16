@@ -5,8 +5,6 @@ title: "Post"
 author_profile: true
 ---
 
-This is test page.
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
