@@ -174,4 +174,4 @@ mathjax: "true"
 
 這篇就是針對閱讀和聽力的心得。[這裡是練習時所做的統計表格](https://github.com/hrjheng/hrjheng.github.io/raw/master/files/%E7%B7%B4%E7%BF%92%E7%B5%B1%E8%A8%88.numbers)，有需要的人請自行取用(我是用mac內建的Numbers做統計)
 
-下回就是針對口說和寫作分享！
+下回就是針對[口說和寫作](https://hrjheng.github.io/TOEFL-prep-SW/)！
