@@ -2,22 +2,30 @@
 title: "TOEFL 106 準備心得 (上) — 閱讀&聽力"
 classes: wide
 date: 2019-12-16
-tags: [TOEFL]
+tags:
+      - TOEFL
+      - TOEFL ibt
 mathjax: "true"
 ---
-
-![alt]({{ site.url }}{{ site.baseurl }}/images/TOEFL_prep/TOEFL-score.png)
 
 <figure>
   <img src="/images/TOEFL_prep/TOEFL-score.png" style="width:70%" class="align-center">
 </figure>
 
-背景：
-TOEFL一戰 → R:1X/L:27/S:23/W:25  
-TOEFL二戰 → Total 106 (R:29/L:26/S:24/W:27)  
-總共準備時間約兩個半月(2019 9月中至2019 12月初)  
-TOEIC 大四裸考835  
-全民英檢 高二通過中高級初試  
-學測14級分  
-GRE二戰 324 (V154/Q170/AWA4.0)  
-從大三開始進實驗室後常閱讀英文期刊論文，group meeting 或與國外collaborator meeting全英文交流溝通，多次前往瑞士參與研究(用英文與各國人溝通)  
+背景：  
+* TOEFL一戰 → R:1X/L:27/S:23/W:25  
+* TOEFL二戰 → Total 106 (R:29/L:26/S:24/W:27)  
+* 總共準備時間約兩個半月(2019 9月中至2019 12月初)  
+* TOEIC 大四裸考835  
+* 全民英檢 高二通過中高級初試  
+* 學測14級分  
+* GRE二戰 324 (V154/Q170/AWA4.0)  
+* 從大三開始進實驗室後常閱讀英文期刊論文，group meeting 或與國外collaborator meeting全英文交流溝通，多次前往瑞士參與研究(用英文與各國人溝通)  
+
+---
+# Foreword #
+想寫的原因有二，一是想記錄這段時間付出的心力，二是看到大多網路文章作者都宣稱自己“弱底”，卻每個都多益金色證書、學測15級指考9X、甚至托福不補習一戰110等，因此想要寫一個能讓真正“普底”的人有同感及共鳴的分享(我的英文背景程度如上述)。
+
+進入真正分科心得之前，我必須先提我是在SK2 TOEFL補習。以下我會提出個人對SK2各科教學裡的想法。另外，我也會分享我自己練習時做的統計分析，目的是瞭解我做題中常錯的題目及弱點，文末我也會附上我做的分析表格檔案。
+
+(***Disclaimer***: 以下完全是我的個人看法與理解，因此有些提及的技巧能力等可能和它們的原意有所偏差)
