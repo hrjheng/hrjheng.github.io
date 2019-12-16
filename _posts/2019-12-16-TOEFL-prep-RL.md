@@ -135,3 +135,43 @@ mathjax: "true"
 5. Structure結構題，簡稱S (此題型出現在lecture，題目敘述會類似 “How does the professor organize the information……”)
 6. Listen again重聽題，簡稱LA
 下圖這些題型的出題比例，統計資料來自TPO。大致上lecture和conversation各類型的出題比例是類似的。
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-題型比例.png" style="width:80%" class="align-center">
+  <figcaption>各題型出題比例 (統計資料來自TPO)</figcaption>
+</figure>
+
+我在這四大題型的正確率如下圖。我在複選題以及重聽題比較弱，conversation的推論題較弱，lecture的結構題也不穩(雖然題目數目不多)
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-各題型答題率.png" style="width:80%" class="align-center">
+  <figcaption>四大題型正確率</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-各題型答題率-table.png" style="width:80%" class="align-center">
+  <figcaption>四大題型正確率(表格)</figcaption>
+</figure>
+
+就聽力而言，我沒有特別分析lecture各個科目的答題情形。但同樣有計算從開始準備到二戰考前兩週，lecture和conversation的累計答題率和移動平均答題率。類似於閱讀，答題率起起伏伏，但整體趨勢還是朝低答錯率提升。
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-Lecture-累進及移動平均答題率.png" style="width:80%" class="align-center">
+  <figcaption>lecture的累計答題率和移動平均答題率</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-Conversation-累進及移動平均答題率.png" style="width:80%" class="align-center">
+  <figcaption>conversation的累計答題率和移動平均答題率</figcaption>
+</figure>
+
+最後，我也以網路上查到的估計分數來計算每回TPO的預估分數。由於是按照TPO回數來做，因此TPO就等同於日期。淺紅色曲線為Numbers內建計算移動平均的函式所得出的移動平均，中間一度達到目標分數27，但後面到了接近TPO40，我在練習時明顯感到題目難度增加不少，分數稍微掉下來，最後實戰分數26剛好對應到最後算出的移動平均分數...
+
+<figure>
+  <img src="/images/TOEFL_prep/Listening-分數projection.png" style="width:80%" class="align-center">
+  <figcaption>每回TPO預估分數(深紅色實心方點)及移動平均(淺紅色實線)</figcaption>
+</figure>
+
+這篇就是針對閱讀和聽力的心得。我將練習時所做的統計表格放在我的[Google雲端](https://drive.google.com/file/d/1oPmktqx0FVq2_M9Xr62m4KtKTT9CouqR/view?usp=sharing)，有需要的人請自行取用(我是用mac內建的Numbers做統計)
+
+下回就是針對口說和寫作分享！
