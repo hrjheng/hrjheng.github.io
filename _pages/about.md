@@ -27,5 +27,10 @@ I won the Zhu-Shun Yi He Qin Scholarship, which is one of the highest honor in N
 
 <figure>
   <img src="/images/Course-vs-Grade-Major.png" style="width:70%" class="align-center">
-  <figcaption>Grades for all taken courses in major field.</figcaption>
+  <figcaption>Grades of all taken courses in major field.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Grade-All-groupSemester.png" style="width:70%" class="align-center">
+  <figcaption>Histograms of grades of all taken courses.</figcaption>
 </figure>
