@@ -92,13 +92,13 @@ mathjax: "true"
 </figure>
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-2.png" style="width:85%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-答題率vsSum題-2.png" style="width:55%" class="align-center">
   <figcaption>各題型正確率與Summary正確與否的關聯性</figcaption>
 </figure>
 
 **文章內容科目**：大致上包含社會科學(Social science)、自然科學(Natural Science)、環境地理(Geography/Environment/Energy)、生物生態(Biology/Ecology)、天文(Astronomy)、藝術文化歷史(Art/Culture)、考古人類學(Anthropology/Archeology)。我在各個科目文章的正確率如下圖。很明顯的，藝術文化歷史和考古人類學是我比較弱的文章類型，我認為可能原因是我本身理工科，對於文化歷史科目比較無法掌握文章邏輯，且對於這類型的文章我也常常需要花比較多時間作答。
 
 <figure>
-  <img src="/images/TOEFL_prep/Reading-閱讀科目答題率.png" style="width:85%" class="align-center">
+  <img src="/images/TOEFL_prep/Reading-閱讀科目答題率.png" style="width:65%" class="align-center">
   <figcaption>各科目文章答題率</figcaption>
 </figure>
