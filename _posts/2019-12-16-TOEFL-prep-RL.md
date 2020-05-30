@@ -11,9 +11,8 @@ mathjax: "true"
   <img src="/images/TOEFL_prep/TOEFL-score.png" style="width:70%" class="align-center">
 </figure>
 
-背景：  
-* TOEFL一戰 → R:1X/L:27/S:23/W:25  
-* TOEFL二戰 → **Total 106 (R:29/L:26/S:24/W:27)**  
+背景：
+* TOEFL二戰 → **106 R:29/L:26/S:24/W:27**  
 * 總共準備時間約兩個半月(2019 9月中至2019 12月初)  
 * TOEIC 大四裸考835  
 * 全民英檢 高二通過中高級初試  
