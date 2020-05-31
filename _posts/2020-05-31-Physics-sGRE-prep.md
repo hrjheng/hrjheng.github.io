@@ -51,6 +51,14 @@ ETS不定期會公布Practice tests，至今為止有六份
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR0877.pdf" target="_blank">GR0877</a>
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR1777.pdf" target="_blank">GR1777</a>
 
+這些寫下來也總共有將近600題的練習，會說將近的原因是有些題目常重複出現，最好的例子是一題問如果存在磁荷且其守恆的話，Maxwell's equation必須改成什麼形式
+
+<figure>
+  <img src="/images/sGRE_prep/Maxwell-eq.png" style="width:50%" class="align-center">
+</figure>
+
+這題甚至在我考試當天也出現了，看到我立刻笑出來秒寫答案。
+
 每份題目後面都有各題答案和各題的答題狀況 (答對此題的考生佔當次考生人數的比例Percentile)，從這個數字可以看到一些有趣的現象。
 
 首先，將各年題目的Percentile用Histogram畫出如下圖，
@@ -84,6 +92,20 @@ ETS不定期會公布Practice tests，至今為止有六份
 
 很明顯的可以看出越後面的考題有越難和六份考題的平均難度，線性擬合越靠圖上方平均難度越低，反之難度越高。
 
+實際看了一些Percentile很低的題目，發現不少是考粒子物理的一些知識，由於我是做粒子物理實驗，這些題目幾乎都秒選，但對於不是做這方面的學生可能就比較難了。Conquering the Physics GRE裡也有說到，對於粒子物理會考倒的範疇，可以讀這本經典教科書 [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018) (Again, 又是David Griffiths)。之後有空再把Percentile低的題目挑出來，看看會不會有哪些題目是考生都不熟悉的，而這些題目出自力學、電磁學、量子物理或熱力學等的比例是否跟ETS官方公佈的試題科目比例[^2]相似，還是說難的題目比較偏向哪方面的題目。
+
+## Final words ##
+應該很少跟我一樣是9月跑到沖繩考試。本來想要趕趕看2019年底申請截止，又怕只報名10月底在台灣的考場[^3]，萬一考不好的話要再考就只能等隔年4月，等於2019年底申請截止完全沒機會，所以硬著頭皮訂了機票民宿出國一趟。我是邊準備TOEFL和GRE general邊準備sGRE的，如果說要算真正全心全意準備sGRE的時間可能也就考完第二次GRE general後到9月中的大概三個禮拜，剛開始準備覺得極度絕望，第一是很多計算或概念太久沒碰都忘記了，第二是想說怎麼可能170分鐘寫完100題，50題可能就得要花兩個小時，還錯一大堆。寫完前兩年的考題後，把錯的題目徹底檢討，忘記的概念或計算再回去複習，接下來寫後面的就“比較”順。但到了考前幾天拿17年考題實際模擬考試的時候，還是不到900，這時不會算或忘記的題目已經很少，錯的還很多都是粗心，超級大崩潰，打電話回家講了一個多小時。正式考前想說有900就好，考試當天其實後面也沒有寫完，猜了很多題，最後可能是猜的很多都對加上粗心不多，看到分數出來有960還重新登出登入好幾次確定我沒看錯，考運少數爆發一次。雖然說最後還是沒能趕上2019年底申請截止，當完兵後重回學校當RA一年，再拼2020年底的申請，希望最後能如願出國念書。
+
+附上考前寫96年考題對完答案錯30題崩潰IG限動
+<figure>
+  <img src="/images/sGRE_prep/24522.jpg" style="width:40%" class="align-center">
+</figure>
+
 ---
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
+
+[^2]: 試題科目比例指的是試題出自力學、電磁學、熱力學、量子物理等大科目的比例，這個資訊取得容易，所以這裡就不提及了
+
+[^3]: sGRE每年只舉行3次測驗，而台灣只舉辦4月和10底兩次
