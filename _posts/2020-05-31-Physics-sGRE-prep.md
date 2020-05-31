@@ -54,7 +54,7 @@ ETS不定期會公布Practice tests，至今為止有六份
 這些寫下來也總共有將近600題的練習，會說將近的原因是有些題目常重複出現，最好的例子是一題問如果存在磁荷且其守恆的話，Maxwell's equation必須改成什麼形式
 
 <figure>
-  <img src="/images/sGRE_prep/Maxwell-eq.png" style="width:50%" class="align-center">
+  <img src="/images/sGRE_prep/Maxwell-eq.png" style="width:30%" class="align-center">
 </figure>
 
 這題甚至在我考試當天也出現了，看到我立刻笑出來秒寫答案。
