@@ -58,7 +58,7 @@ ETS不定期會公布Practice tests，至今為止有六份
 如果把各年份分開，且用Gaussian kernel density估計Percentile的分佈，得到下圖，
 
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-joyplot.png" style="width:70%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-joyplot.png" style="width:55%" class="align-center">
 </figure>
 
 96年的題目似乎最難，很多考題的Percentile只落在約30，08和17年的考題似乎較簡單。這差不多驗證了眾多考生普遍的感覺，86、92和96的考題難度已經跟最近幾年的考題難度不同，我自己寫過的感覺也是如此，難度和考題邏輯很不一樣。
@@ -66,13 +66,13 @@ ETS不定期會公布Practice tests，至今為止有六份
 如果把Percentile隨考題編號畫出，並加上線性擬合，得到下圖，
 
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-line.png" style="width:90%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-line.png" style="width:70%" class="align-center">
 </figure>
 
 可以看到試題越後面的考題有越難的趨勢。如果單獨把線性擬合單獨畫出如下圖，
 
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-regplot-onlyfit.png" style="width:60%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-regplot-onlyfit.png" style="width:50%" class="align-center">
 </figure>
 
 很明顯的可以看出越後面的考題有越難和六份考題的平均難度，線性擬合越靠圖上方平均難度越低，反之難度越高。
