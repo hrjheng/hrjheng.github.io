@@ -99,7 +99,7 @@ ETS不定期會公布Practice tests，至今為止有六份
 
 附上考前寫96年考題對完答案錯30題崩潰IG限動
 <figure>
-  <img src="/images/sGRE_prep/24522.jpg" style="width:40%" class="align-center">
+  <img src="/images/sGRE_prep/24522.jpg" style="width:20%" class="align-center">
 </figure>
 
 ---
