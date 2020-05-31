@@ -35,5 +35,13 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 
 除了以上網路資源外，我還有買了一本兩位前MIT PhD寫的 [Conquering the Physics GRE](https://www.amazon.com/Conquering-Physics-GRE-Yoni-Kahn/dp/1108409563)，裡面列出作者整理所有常考且重要的概念 (來自歷年ETS公布的Practice tests)，語言簡潔地把物理圖像描述清楚，讀完之後會覺得以前上普物要是能有這本，很多概念應該會更融會貫通。書末還附了三份作者出的仿真考題、詳解和formula sheet，個人大推!
 
+## 關於考題 ##
+ETS不定期會公布Practice tests，至今為止有六份
+- [GR8677]()
+- [GR9277]()
+- [GR9677]()
+- [GR0177]()
+- [GR0877]()
+- [GR1777]()
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
