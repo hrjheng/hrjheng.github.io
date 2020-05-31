@@ -32,8 +32,15 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 - [UW Physics GRE Study Group Website](https://sites.google.com/a/uw.edu/physicsgre/) 華盛頓大學的網站 (好像2014年後就沒有再更新...)
 - [GREPhysics.net](http://grephysics.net/ans/all-solutions_list.php) 網站上只有 GR8677, GR9277, GR9677, 和GR0177的詳解，我在這裡有看到幾題以前網友有很不錯想法或解法，當看到其他詳解還是不太懂的時候這裡也許可以挖到寶
 - [Alex Lang's Website](https://www.alexhunterlang.com/physics-gre)
+- [Physics Problems & Solutions](http://physics-problems-solutions.blogspot.com/2009/08/physics-gre-resources.html) 此網站上有86, 92, 96, 01和08年考題的解答
+- [Physics GRE 1777 Solutions by Mohamed Abdelhafez](https://fieldtheoryblog.files.wordpress.com/2019/05/pgre-1777-solutions.pdf) 芝加哥大學的一位學生寫的，這是我找到唯一一份17年考題的解答...
 
 除了以上網路資源外，我還有買了一本兩位前MIT PhD寫的 [Conquering the Physics GRE](https://www.amazon.com/Conquering-Physics-GRE-Yoni-Kahn/dp/1108409563)，裡面列出作者整理所有常考且重要的概念 (來自歷年ETS公布的Practice tests)，語言簡潔地把物理圖像描述清楚，讀完之後會覺得以前上普物要是能有這本，很多概念應該會更融會貫通。書末還附了三份作者出的仿真考題、詳解和formula sheet，個人大推!
+
+我自己基於 Conquering the Physics GRE這本書的內容，整理的三份表格，分別是關於，
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/Thermodynamics-processes.pdf" target="_blank">Thermodynamics processes</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/Perturbation-to-Hydrogen.pdf" target="_blank">氫原子模型的perturbation</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/Summary-Types-of-Lasers.pdf" target="_blank">各種雷射</a>
 
 ## 關於考題 ##
 ETS不定期會公布Practice tests，至今為止有六份
