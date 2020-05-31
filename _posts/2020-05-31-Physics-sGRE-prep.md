@@ -37,12 +37,12 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 
 ## 關於考題 ##
 ETS不定期會公布Practice tests，至今為止有六份
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR8677.pdf" target="_blank">GR8677</a>
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR9277.pdf" target="_blank">GR9277</a>
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR9677.pdf" target="_blank">GR9677</a>
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR0177.pdf" target="_blank">GR0177</a>
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR0877.pdf" target="_blank">GR0877</a>
-- <a href="https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR1777.pdf" target="_blank">GR1777</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR8677.pdf" target="_blank">GR8677</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR9277.pdf" target="_blank">GR9277</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR9677.pdf" target="_blank">GR9677</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR0177.pdf" target="_blank">GR0177</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR0877.pdf" target="_blank">GR0877</a>
+- <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR1777.pdf" target="_blank">GR1777</a>
 
 每份題目後面都有各題答案和各題的答題狀況 (答對此題的考生佔當次考生人數的比例Percentile)，從這個數字可以看到一些有趣的現象。
 
