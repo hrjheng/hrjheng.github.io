@@ -20,7 +20,7 @@ Percentile: 91%
 Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)。不像TOEFL一樣有個明訂的最低門檻，這個必要條件指的是系所規定你要去考且要繳交成績，可是沒有列出最低分數。**BUT!!!!!**，根據一位去年來我們學校的客座教授，他說其實系所在篩人時，還是有cutoff，分數低於這個門檻的學生就會先被踢除，而這個門檻又會按照你是不同地區來的學生有不同的標準，譬如說中國和印度學生是一個cutoff，台灣學生是一個cutoff，歐美學生又是另一個[^1]。在國際上亞洲人是公認的考試機器，盡量把分數考高一點還是比較安全 (據一位考化學GRE的朋友說，一個參考標準是Percentile > 90%)。
 
 ## 網路資源 ##
-下面是我準備時在網路上找到的一些資料
+下面是我準備時在網路上找到的一些資料 (其實我真心覺得物理GRE的資源不是很多，也許這個考試真的冷門...)
 - ptt GRE看板文章
   - [[心得] physics sGRE心得](https://www.ptt.cc/bbs/GRE/M.1372169191.A.C45.html) 這位990網友整理了30個常考的概念
   - [[情報] Physics GRE 的錄取參考資料](https://www.ptt.cc/bbs/studyabroad/M.1480256027.A.AAB.html)
@@ -33,6 +33,7 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 - [GREPhysics.net](http://grephysics.net/ans/all-solutions_list.php) 網站上只有 GR8677, GR9277, GR9677, 和GR0177的詳解，我在這裡有看到幾題以前網友有很不錯想法或解法，當看到其他詳解還是不太懂的時候這裡也許可以挖到寶
 - [Alex Lang's Website](https://www.alexhunterlang.com/physics-gre)
 
-其實我真心覺得物理GRE的資源真的不是很多
+除了以上網路資源外，我還有買了一本兩位前MIT PhD寫的 [Conquering the Physics GRE](https://www.amazon.com/Conquering-Physics-GRE-Yoni-Kahn/dp/1108409563)，裡面列出作者整理所有常考且重要的概念 (來自歷年ETS公布的Practice tests)，語言簡潔地把物理圖像描述清楚，讀完之後會覺得以前上普物要是能有這本，很多概念應該會更融會貫通。書末還附了三份作者出的仿真考題、詳解和formula sheet，個人大推!
+
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
