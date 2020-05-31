@@ -23,7 +23,7 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 下面是我準備時在網路上找到的一些資料
 - ptt GRE看板文章
   - [[心得] physics sGRE心得](https://www.ptt.cc/bbs/GRE/M.1372169191.A.C45.html) 這位990網友整理了30個常考的概念
-  - [[情報] Physics GRE 的錄取參考資料]([https://](https://www.ptt.cc/bbs/studyabroad/M.1480256027.A.AAB.html))
+  - [[情報] Physics GRE 的錄取參考資料](https://www.ptt.cc/bbs/studyabroad/M.1480256027.A.AAB.html)
   - [Re: [分享] Subject GRE(physics)的個人筆記](https://www.ptt.cc/bbs/Physics/M.1309437201.A.64D.html)
 - [物理(physics) Gre 990 滿分心得](https://ericntuncu.blogspot.com/2018/05/subject-physics-gre-990.html) 也是一位990網友的心得
 - [An Inside Look at the Physics GRE](https://www.discovermagazine.com/the-sciences/an-inside-look-at-the-physics-gre) by 前Physics sGRE試題委員
@@ -33,5 +33,6 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 - [GREPhysics.net](http://grephysics.net/ans/all-solutions_list.php) 網站上只有 GR8677, GR9277, GR9677, 和GR0177的詳解，我在這裡有看到幾題以前網友有很不錯想法或解法，當看到其他詳解還是不太懂的時候這裡也許可以挖到寶
 - [Alex Lang's Website](https://www.alexhunterlang.com/physics-gre)
 
+其實我真心覺得物理GRE的資源真的不是很多
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
