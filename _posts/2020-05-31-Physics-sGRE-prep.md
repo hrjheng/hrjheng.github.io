@@ -12,14 +12,26 @@ mathjax: "true"
 測驗日期: 2019/09/14  
 測驗地點: Okinawa, Christian School 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.8297946081457!2d127.72765931503402!3d26.39668598335252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e5113690d09a75%3A0x8204dfc7f45ae35d!2sOkinawa%20Christian%20School%20International!5e0!3m2!1szh-TW!2stw!4v1590926914388!5m2!1szh-TW!2stw" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-分數: 960   
+量尺分數: 960   
 Percentile: 91%
 
 ---
 # Foreword #
 Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)。不像TOEFL一樣有個明訂的最低門檻，這個必要條件指的是系所規定你要去考且要繳交成績，可是沒有列出最低分數。**BUT!!!!!**，根據一位去年來我們學校的客座教授，他說其實系所在篩人時，還是有cutoff，分數低於這個門檻的學生就會先被踢除，而這個門檻又會按照你是不同地區來的學生有不同的標準，譬如說中國和印度學生是一個cutoff，台灣學生是一個cutoff，歐美學生又是另一個[^1]。在國際上亞洲人是公認的考試機器，盡量把分數考高一點還是比較安全 (據一位考化學GRE的朋友說，一個參考標準是Percentile > 90%)。
 
+## 網路資源 ##
+下面是我準備時在網路上找到的一些資料
+- ptt GRE看板文章
+  - [[心得] physics sGRE心得](https://www.ptt.cc/bbs/GRE/M.1372169191.A.C45.html) 這位990網友整理了30個常考的概念
+  - [[情報] Physics GRE 的錄取參考資料]([https://](https://www.ptt.cc/bbs/studyabroad/M.1480256027.A.AAB.html))
+  - [Re: [分享] Subject GRE(physics)的個人筆記](https://www.ptt.cc/bbs/Physics/M.1309437201.A.64D.html)
+- [物理(physics) Gre 990 滿分心得](https://ericntuncu.blogspot.com/2018/05/subject-physics-gre-990.html) 也是一位990網友的心得
+- [An Inside Look at the Physics GRE](https://www.discovermagazine.com/the-sciences/an-inside-look-at-the-physics-gre) by 前Physics sGRE試題委員
+- [Physics Log](https://www.physicslog.com/pgre/) by Damodar Rajbhandari 詳列了幾乎各種網路上的資源，也有作者自己寫的note
+- [How to ace the GRE and Physics GRE](https://jaan.io/how-to-ace-the-gre-and-physics-gre/) by Jaan Altosaar 
+- [UW Physics GRE Study Group Website](https://sites.google.com/a/uw.edu/physicsgre/) 華盛頓大學的網站 (好像2014年後就沒有再更新...)
+- [GREPhysics.net](http://grephysics.net/ans/all-solutions_list.php) 網站上只有 GR8677, GR9277, GR9677, 和GR0177的詳解，我在這裡有看到幾題以前網友有很不錯想法或解法，當看到其他詳解還是不太懂的時候這裡也許可以挖到寶
+- [Alex Lang's Website](https://www.alexhunterlang.com/physics-gre)
 
-準備時上網查了很多資料
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
