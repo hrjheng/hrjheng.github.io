@@ -43,7 +43,7 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/Summary-Types-of-Lasers.pdf" target="_blank">各種雷射</a>
 
 ## 關於考題 ##
-ETS不定期會公布Practice tests，至今為止有六份
+ETS不定期會公布Practice tests，至今為止有六份，
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR8677.pdf" target="_blank">GR8677</a>
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR9277.pdf" target="_blank">GR9277</a>
 - <a href="https://hrjheng.github.io/pdfs/sGRE-prep/GR9677.pdf" target="_blank">GR9677</a>
