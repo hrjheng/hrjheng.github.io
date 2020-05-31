@@ -48,4 +48,6 @@ ETS不定期會公布Practice tests，至今為止有六份
 
 
 
+---
+
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
