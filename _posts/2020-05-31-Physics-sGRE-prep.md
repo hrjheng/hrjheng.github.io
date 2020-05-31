@@ -37,11 +37,11 @@ Physics sGRE 幾乎是美國每所物理PhD的申請必要條件 (Requirement)�
 
 ## 關於考題 ##
 ETS不定期會公布Practice tests，至今為止有六份
-- [GR8677]()
-- [GR9277]()
-- [GR9677]()
-- [GR0177]()
-- [GR0877]()
-- [GR1777]()
+- [GR8677](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR8677.pdf)
+- [GR9277](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR9277.pdf)
+- [GR9677](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR9677.pdf)
+- [GR0177](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR0177.pdf)
+- [GR0877](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR0877.pdf)
+- [GR1777](https://github.com/hrjheng/hrjheng.github.io/blob/master/files/sGRE-prep/GR1777.pdf)
 
 [^1]: 一份刊登在Science Advances上的文章 [Typical physics Ph.D. admissions criteria limit access to underrepresented groups but fail to predict doctoral completion](https://advances.sciencemag.org/content/5/1/eaat7550) 中，有一張圖表呈現美國Physics sGRE的考生，不同種族 (Asian, White, Hispanic, Black) 和不同性別的成績分布
