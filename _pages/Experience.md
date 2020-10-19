@@ -12,7 +12,7 @@ mathjax: "true"
 I joined the experimental high energy physics group at National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis under the supervision of Professor Chia-Ming Kuo. I performed a **search for rare decays of the Higgs and Z bosons into J/&psi; meson and a photon, where the J/&psi; meson subsequently decays into a muon pair**, using data collected by the Compact Muon Solenoid (CMS) detector at Large Hadron Collider (LHC). The Higgs boson decay channel is one of the most promising probes to the Higgs-Charm coupling in the LHC environment. On the other hand, the decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to a quarkonium state in CMS. I served as the contact person for the analysis and have successfully addressed all the concerns and recommendations brought up by the Physics Analysis Group conveners, review committee, collaborators, physics coordinators, and journal referees. The search was published in the European Physics Journal C, Eur. Phys. J. C 79 (2019) 94. I also participated in the analysis of a Higgs boson decays into two photons, one of which has an internal conversion into a muon pair. This decay channel is also named as Higgs Dalitz decay. I mainly worked on measuring the trigger efficiency and building up the background estimation method. The results were published in the Journal of High Energy Physics, JHEP 11 (2018) 152.
 {: style="text-align: justify;"}
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" style="width:70%">
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" style="width:40%">
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
@@ -22,7 +22,6 @@ I am currently working on developing proper simulations of background processes 
 {: style="text-align: justify;"}
 
 ## Service Work
-
 In addition to physics analyses, I worked on the measurement of electron veto efficiency for the 2017 and 2018 data-taking periods under the Electron-Photon Physics Object Group (E-Gamma POG). I improved and refined the evaluation of systematic uncertainties and laid the groundwork for the measurement. The conveners highly appreciated my presentations, works, and contributions to the group.
 {: style="text-align: justify;"}
 
@@ -34,12 +33,12 @@ In addition to physics analyses, I worked on the measurement of electron veto ef
 
 ## Beam-tests
 
-Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [[1]](#ref). The paper sumarizing the beamtest in 2016 was published at Journal of Instrumentation. After I passed my oral defence for my thesis at the begining of my second year of master degree, I went to CERN again and stayed there for 3 months to participate in the last beamtest in the following two years (LHC was scheduled for long shutdown). I took shifts to monitor the data taking, and also involved in the study on the energy reconstruction using boosted decision tree method and electron identification. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
+I participated in the beam-tests for the CMS High Granularity Calorimeter (HGCal) project for High Luminosity LHC hold at CERN since the summer of 2016. [[1]](#ref). After I passed the oral defense for my thesis at the beginning of my second year of master's study, I went to CERN and stayed there for three months to attend the last beam-test for the following two years. I applied the machine learning techniques in electron energy reconstruction and electron-pion identification with collaborators from the University of Minnesota. With Machine Learning, better energy resolutions for electrons with higher energy were achieved as compared to those attained with traditional reconstruction methods. I trained a classifier using simulation to discriminate electron-like pion events with training features that are the same as those used in the regression. A preliminary result showed that the classifier rejected more than 99.5% of pions while retaining 99% of the electrons. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
 {: style="text-align: justify;"}
 
 <center><figure>
-  <img src="/images/201811-333_01.jpg" style="width:70%" class="align-center">
-  <figcaption>Photo from CERN Courier [2].</figcaption>
+  <img src="/images/201811-333_01.jpg" style="width:50%" class="align-center">
+  <figcaption>Photo in CERN Courier Jan/Feb 2019 edition [2].</figcaption>
 </figure></center>
 
 To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>):
