@@ -14,7 +14,7 @@ I joined the experimental high energy physics group at National Central Universi
 <img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" width="500">
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass <p>m<sub>&mu;&mu;&gamma;</sub></p> distribution observed in data for the <p>H&rarr;J/&psi;+&gamma;</p> channel.</figcaption>
+  <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
 </figure>
 
 I am currently working on developing proper simulations of background processes for this search, an important yet missing piece of the current analysis chain. Since the relevant background processes have large cross-sections due to the low di-muon invariant mass, efficient and realistic production of simulated events is a challenge. I implemented generator filters to select events that are similar in both the signal topology and the phase space and was able to bring a significant reduction of cross-sections, making the production of background simulations feasible. This work opens up several possibilities for improvement in the search, such as an advanced event selection optimization or categorization in the analysis with machine learning techniques, foreseeably leading to a better search sensitivity and an eventual observation of this decay channel in the future run of LHC.  
