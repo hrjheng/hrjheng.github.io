@@ -8,23 +8,24 @@ mathjax: "true"
 ---
 
 ## Physics Analyses
-I joined the experimental high energy physics group at National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis under the supervision of Professor Chia-Ming Kuo. I performed a **search for rare decays of the Higgs and Z bosons into J/&psi; meson and a photon, where the J/&psi; meson subsequently decays into a muon pair**, using data collected by the Compact Muon Solenoid (CMS) detector at Large Hadron Collider (LHC). The Higgs boson decay channel is one of the most promising probes to the Higgs-Charm coupling in the LHC environment. On the other hand, the decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to a quarkonium state in CMS. I served as the contact person for the analysis and have successfully addressed all the concerns and recommendations brought up by the Physics Analysis Group conveners, review committee, collaborators, physics coordinators, and journal referees. The search was published in the European Physics Journal C, Eur. Phys. J. C 79 (2019) 94. I also participated in the analysis of a Higgs boson decays into two photons, one of which has an internal conversion into a muon pair. This decay channel is also named as Higgs Dalitz decay. I mainly worked on measuring the trigger efficiency and building up the background estimation method. The results were published in the Journal of High Energy Physics, JHEP 11 (2018) 152. 
+
+I joined the experimental high energy physics group at National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis under the supervision of Professor Chia-Ming Kuo. I performed a **search for rare decays of the Higgs and Z bosons into J/&psi; meson and a photon, where the J/&psi; meson subsequently decays into a muon pair**, using data collected by the Compact Muon Solenoid (CMS) detector at Large Hadron Collider (LHC). The Higgs boson decay channel is one of the most promising probes to the Higgs-Charm coupling in the LHC environment. On the other hand, the decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to a quarkonium state in CMS. I served as the contact person for the analysis and have successfully addressed all the concerns and recommendations brought up by the Physics Analysis Group conveners, review committee, collaborators, physics coordinators, and journal referees. The search was published in the European Physics Journal C, Eur. Phys. J. C 79 (2019) 94. I also participated in the analysis of a Higgs boson decays into two photons, one of which has an internal conversion into a muon pair. This decay channel is also named as Higgs Dalitz decay. I mainly worked on measuring the trigger efficiency and building up the background estimation method. The results were published in the Journal of High Energy Physics, JHEP 11 (2018) 152.
 {: style="text-align: justify;"}
 
-![CMS-SMP-17-012_Figure_007-d](/images/CMS-SMP-17-012_Figure_007-d.png){:height="400px"}.
-*Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.*
-
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" width="500" class="center">
-<figure>
+<div style="display: flex; justify-content: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" width="500">
+  <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
-</figure> -->
+    <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
+  </figure>
+</div>
 
 I am currently working on developing proper simulations of background processes for this search, an important yet missing piece of the current analysis chain. Since the relevant background processes have large cross-sections due to the low di-muon invariant mass, efficient and realistic production of simulated events is a challenge. I implemented generator filters to select events that are similar in both the signal topology and the phase space and was able to bring a significant reduction of cross-sections, making the production of background simulations feasible. This work opens up several possibilities for improvement in the search, such as an advanced event selection optimization or categorization in the analysis with machine learning techniques, foreseeably leading to a better search sensitivity and an eventual observation of this decay channel in the future run of LHC.  
 {: style="text-align: justify;"}
 
 ## Service Work
-In addition to physics analyses, I worked on the measurement of electron veto efficiency for the 2017 and 2018 data-taking periods under the Electron-Photon Physics Object Group (E-Gamma POG). I improved and refined the evaluation of systematic uncertainties and laid the groundwork for the measurement. The conveners highly appreciated my presentations, works, and contributions to the group. 
+
+In addition to physics analyses, I worked on the measurement of electron veto efficiency for the 2017 and 2018 data-taking periods under the Electron-Photon Physics Object Group (E-Gamma POG). I improved and refined the evaluation of systematic uncertainties and laid the groundwork for the measurement. The conveners highly appreciated my presentations, works, and contributions to the group.
 {: style="text-align: justify;"}
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_CSEV.png" alt="" width="500"> <img src="{{ site.url }}{{ site.baseurl }}/images/ElectronVeto_2017/CombHist_PixelSeed.png" alt="" width="500">
@@ -34,6 +35,7 @@ In addition to physics analyses, I worked on the measurement of electron veto ef
 </figure> -->
 
 ## Beam-tests
+
 Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [[1]](#ref). The paper sumarizing the beamtest in 2016 was published at Journal of Instrumentation. After I passed my oral defence for my thesis at the begining of my second year of master degree, I went to CERN again and stayed there for 3 months to participate in the last beamtest in the following two years (LHC was scheduled for long shutdown). I took shifts to monitor the data taking, and also involved in the study on the energy reconstruction using boosted decision tree method and electron identification. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
 {: style="text-align: justify;"}
 
@@ -43,27 +45,31 @@ Further, I attended several beamtests for High Granularity Calorimeter (HGCal) [
 </figure>
 
 To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>):
-* Paper
+
+- Paper
+
   1. Search for rare decays of Z and Higgs bosons to J/&psi; and a photon in proton-proton collisions at $$\sqrt{s}$$ = 13 TeV, [Eur. Phys. J. C 79 (2019)94](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-6562-5), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/SMP-17-012/index.html)
   2. Search for the decay of a Higgs boson in the $$\ell\ell\gamma$$ channel in proton-proton collisions at $$\sqrt{s}$$=13 TeV, [JHEP 11 (2018) 152](https://link.springer.com/article/10.1007%2FJHEP11%282018%29152), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-17-007/index.html)
   3. First beam tests of prototype silicon modules for the CMS High Granularity Endcap Calorimeter, [JINST 13 (2018) no.10, P10023](http://iopscience.iop.org/article/10.1088/1748-0221/13/10/P10023/meta)
 
-* Oral presentation
+- Oral presentation
+
   1. <a href="https://hrjheng.github.io/pdfs/Pheno2019-CMSRareDecays.pdf" target="_blank">Searches for rare decays of the Higgs boson at CMS</a>, Phenomenology Symposium 2019, University of Pittsburgh
   2. [Study of Higgs and Z boson decaying into J/𝞇 + γ in pp collisions at √s=13TeV](https://hrjheng.github.io/pdfs/Korea_Diboson_20170915.pdf), Taiwan Korea joint workshop on particle physics, Seoul National University
 
-* Poster presentation
+- Poster presentation
   1. <a href="https://hrjheng.github.io/pdfs/Poster_TPS2019.pdf" target="_blank">Rare decays of the Higgs boson in the llγ final states in pp collisions at √s=13 TeV</a>, 2019 Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan
-  2. <a href="https://hrjheng.github.io/pdfs/Poster_ICHEP.pdf" target="_blank">Search for Z and Higgs boson decaying into J/𝞇 + photon in pp collisions at 13 TeV</a>,  39th International Conference on High Energy Physics (2018), Seoul, Korea
-  3. <a href="https://hrjheng.github.io/pdfs/PosterFinal_HaoRen.pdf" target="_blank">Searches for Z and Higgs boson decaying into J/𝞇 + γ in pp collisions at √s=13TeV with 2016 data</a>,  2018 Annual Meeting of the Physical Society of Taiwan, National Taiwan University, Taipei, Taiwan
-  4. <a href="https://hrjheng.github.io/pdfs/Poster.pdf" target="_blank">Study of a Higgs boson decaying into a J/𝞇 meson and a photon in pp collisions at √s = 13 TeV</a>,  Annual Meeting of the Physical Society of the Republic of China (Taiwan) 2017, Tamkang University, Taipei, Taiwan
-  5. <a href="https://hrjheng.github.io/pdfs/PSROC_poster2ed.pdf" target="_blank">Study of a Higgs boson decaying into J/𝞇 particle and a photon in pp collisions at √s=13 TeV</a>,  Annual Meeting of the Physical Society of the Republic of China 2016, National Sun Yat-sen University, Kaohsiung, Taiwan
+  2. <a href="https://hrjheng.github.io/pdfs/Poster_ICHEP.pdf" target="_blank">Search for Z and Higgs boson decaying into J/𝞇 + photon in pp collisions at 13 TeV</a>, 39th International Conference on High Energy Physics (2018), Seoul, Korea
+  3. <a href="https://hrjheng.github.io/pdfs/PosterFinal_HaoRen.pdf" target="_blank">Searches for Z and Higgs boson decaying into J/𝞇 + γ in pp collisions at √s=13TeV with 2016 data</a>, 2018 Annual Meeting of the Physical Society of Taiwan, National Taiwan University, Taipei, Taiwan
+  4. <a href="https://hrjheng.github.io/pdfs/Poster.pdf" target="_blank">Study of a Higgs boson decaying into a J/𝞇 meson and a photon in pp collisions at √s = 13 TeV</a>, Annual Meeting of the Physical Society of the Republic of China (Taiwan) 2017, Tamkang University, Taipei, Taiwan
+  5. <a href="https://hrjheng.github.io/pdfs/PSROC_poster2ed.pdf" target="_blank">Study of a Higgs boson decaying into J/𝞇 particle and a photon in pp collisions at √s=13 TeV</a>, Annual Meeting of the Physical Society of the Republic of China 2016, National Sun Yat-sen University, Kaohsiung, Taiwan
 
-[//]: # (<embed src="https://hrjheng.github.io/pdfs/Selected_publication.pdf" type="application/pdf" />)
+[//]: # '<embed src="https://hrjheng.github.io/pdfs/Selected_publication.pdf" type="application/pdf" />'
 
 [//]: # (![Alt Text](/images/HJpsiG_animation.gif))
 
 ### Reference {#ref}
+
 [1] You can find me in the last picture in this [blog post](http://cylindricalonion.web.cern.ch/blog/201608/test-beam-tales-days-6-and-7)
 
 [2] CERN Courier [Jan/Feb 2019](https://cerncourier.com/wp-content/uploads/2019/04/CERNCourier2019JanFeb-digitaledition.pdf)
