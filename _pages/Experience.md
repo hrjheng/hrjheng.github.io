@@ -40,9 +40,11 @@ I participated in the beam-tests for the CMS High Granularity Calorimeter (HGCal
   <figcaption>Photo in CERN Courier Jan/Feb 2019 edition [2].</figcaption>
 </figure></center>
 
+---
+
 To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>):
 
-- Paper
+<!-- - Paper
 
   1. Search for rare decays of Z and Higgs bosons to J/&psi; and a photon in proton-proton collisions at $$\sqrt{s}$$ = 13 TeV, [Eur. Phys. J. C 79 (2019)94](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-6562-5), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/SMP-17-012/index.html)
   2. Search for the decay of a Higgs boson in the $$\ell\ell\gamma$$ channel in proton-proton collisions at $$\sqrt{s}$$=13 TeV, [JHEP 11 (2018) 152](https://link.springer.com/article/10.1007%2FJHEP11%282018%29152), and [CMS public results](http://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-17-007/index.html)
@@ -62,7 +64,7 @@ To wrap up, here is a summary list of my publications (<a href="https://hrjheng.
 
 [//]: # '<embed src="https://hrjheng.github.io/pdfs/Selected_publication.pdf" type="application/pdf" />'
 
-[//]: # (![Alt Text](/images/HJpsiG_animation.gif))
+[//]: # (![Alt Text](/images/HJpsiG_animation.gif)) -->
 
 ### Reference {#ref}
 
