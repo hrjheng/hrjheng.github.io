@@ -11,11 +11,14 @@ mathjax: "true"
 I joined the experimental high energy physics group at National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis under the supervision of Professor Chia-Ming Kuo. I performed a **search for rare decays of the Higgs and Z bosons into J/&psi; meson and a photon, where the J/&psi; meson subsequently decays into a muon pair**, using data collected by the Compact Muon Solenoid (CMS) detector at Large Hadron Collider (LHC). The Higgs boson decay channel is one of the most promising probes to the Higgs-Charm coupling in the LHC environment. On the other hand, the decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to a quarkonium state in CMS. I served as the contact person for the analysis and have successfully addressed all the concerns and recommendations brought up by the Physics Analysis Group conveners, review committee, collaborators, physics coordinators, and journal referees. The search was published in the European Physics Journal C, Eur. Phys. J. C 79 (2019) 94. I also participated in the analysis of a Higgs boson decays into two photons, one of which has an internal conversion into a muon pair. This decay channel is also named as Higgs Dalitz decay. I mainly worked on measuring the trigger efficiency and building up the background estimation method. The results were published in the Journal of High Energy Physics, JHEP 11 (2018) 152. 
 {: style="text-align: justify;"}
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" width="500" class="center">
+![CMS-SMP-17-012_Figure_007-d](/images/CMS-SMP-17-012_Figure_007-d.png)
+*Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.*
+
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" width="500" class="center">
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
-</figure>
+</figure> -->
 
 I am currently working on developing proper simulations of background processes for this search, an important yet missing piece of the current analysis chain. Since the relevant background processes have large cross-sections due to the low di-muon invariant mass, efficient and realistic production of simulated events is a challenge. I implemented generator filters to select events that are similar in both the signal topology and the phase space and was able to bring a significant reduction of cross-sections, making the production of background simulations feasible. This work opens up several possibilities for improvement in the search, such as an advanced event selection optimization or categorization in the analysis with machine learning techniques, foreseeably leading to a better search sensitivity and an eventual observation of this decay channel in the future run of LHC.  
 {: style="text-align: justify;"}
