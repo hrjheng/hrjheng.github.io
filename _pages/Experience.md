@@ -8,7 +8,6 @@ mathjax: "true"
 ---
 
 ## Physics Analyses
-
 I joined the experimental high energy physics group at National Central University (NCU, Taiwan) to work on my undergraduate project and later my master thesis under the supervision of Professor Chia-Ming Kuo. I performed a **search for rare decays of the Higgs and Z bosons into J/&psi; meson and a photon, where the J/&psi; meson subsequently decays into a muon pair**, using data collected by the Compact Muon Solenoid (CMS) detector at Large Hadron Collider (LHC). The Higgs boson decay channel is one of the most promising probes to the Higgs-Charm coupling in the LHC environment. On the other hand, the decay process $$Z\to J/\psi+\gamma$$ was the first search that related the standard model Z boson to a quarkonium state in CMS. I served as the contact person for the analysis and have successfully addressed all the concerns and recommendations brought up by the Physics Analysis Group conveners, review committee, collaborators, physics coordinators, and journal referees. The search was published in the European Physics Journal C, Eur. Phys. J. C 79 (2019) 94. I also participated in the analysis of a Higgs boson decays into two photons, one of which has an internal conversion into a muon pair. This decay channel is also named as Higgs Dalitz decay. I mainly worked on measuring the trigger efficiency and building up the background estimation method. The results were published in the Journal of High Energy Physics, JHEP 11 (2018) 152.
 {: style="text-align: justify;"}
 
@@ -32,17 +31,32 @@ In addition to physics analyses, I worked on the measurement of electron veto ef
 </figure> -->
 
 ## Beam-tests
-I participated in the beam-tests for the CMS High Granularity Calorimeter (HGCal) project for High Luminosity LHC hold at CERN since the summer of 2016. [[1]](#ref). After I passed the oral defense at the beginning of my second year of master's study, I went to CERN and stayed there for three months to attend the last beam-test for the following two years. I applied the machine learning techniques in electron energy reconstruction and electron-pion identification with collaborators from the University of Minnesota. With Machine Learning, better energy resolutions for electrons with higher energy were achieved as compared to those attained with traditional reconstruction methods. I trained a classifier using simulation to discriminate electron-like pion events with training features that are the same as those used in the regression. A preliminary result showed that the classifier rejected more than 99.5% of pions while retaining 99% of the electrons. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>.
+I participated in the beam-tests for the CMS High Granularity Calorimeter (HGCal) project for High Luminosity LHC hold at CERN since the summer of 2016 [[1]](#ref). After I passed the oral defense at the beginning of my second year of master's study, I went to CERN and stayed there for three months to attend the last beam-test for the following two years. I applied the machine learning techniques in electron energy reconstruction and electron-pion identification with collaborators from the University of Minnesota. With Machine Learning, better energy resolutions for electrons with higher energy were achieved as compared to those attained with traditional reconstruction methods. I trained a classifier using simulation to discriminate electron-like pion events with training features that are the same as those used in the regression. A preliminary result showed that the classifier rejected more than 99.5% of pions while retaining 99% of the electrons. A summary of my study can be found in the <a href="https://hrjheng.github.io/pdfs/Thesis-Final-HaoRen.pdf" target="_blank">appendix C in my thesis of master degree</a>. Photo below [[2]](#ref) shows me holding the prototype HGCAL detector planes, based on 6" silicon modules, at CERN in October 2018.
 {: style="text-align: justify;"}
 
 <center><figure>
   <img src="/images/201811-333_01.jpg" style="width:50%" class="align-center">
-  <figcaption>Photo in CERN Courier Jan/Feb 2019 edition [2].</figcaption>
+  <figcaption>Photo in CERN Courier Jan/Feb 2019 edition.</figcaption>
 </figure></center>
 
----
+## Teaching & Outreach
+I was a teaching assistant for Experimental Physics during my first year of master's study. Since I have gone through the same course, I could address the questions and problems raised by students and prepared proper materials for final projects. One group of students carried out the experiment that was my final project when I took the course.
+{: style="text-align: justify;"}
 
-To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>):
+In addition, I was involved in outreach activities to engage high school students in high energy physics. I worked as a teaching assistant for Professor Gunther M. Roland from MIT in his Machine Learning in High Energy Physics course hosted in Taipei, Taiwan. I provided students clear instructions to learn ROOT and TMVA and helped them connect the physics concepts to the programming language. 
+{: style="text-align: justify;"}
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:40%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:40%">
+<figure>
+  {{ fig_img_GuntherCourse | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photos taken in Machine Learning in High Energy Physics course hosted in Taipei, Taiwan</figcaption>
+</figure>
+
+As a research assistant for Professor Chia-Ming Kuo, we organized several One-day High Energy physics schools. I translated and modified manuals from S'Cool LAB at CERN and from masterclasses hold by the Quarknet organization. I was capable of explaining advanced knowledge and techniques in a way that high school students understood. Through teaching, I hope to pass on my positive attitude and passion toward research and experiments and inspire younger generations to seek the beauty of physics. 
+
+
+
+<!-- To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>): -->
 
 <!-- - Paper
 
