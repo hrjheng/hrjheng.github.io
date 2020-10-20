@@ -68,6 +68,6 @@ To wrap up, here is a summary list of my publications (<a href="https://hrjheng.
 
 ### Reference {#ref}
 
-[1] You can find me in the last picture in this [blog post](http://cylindricalonion.web.cern.ch/blog/201608/test-beam-tales-days-6-and-7)
+[1] You can find me in the blog posts [Test-beam tales: Days 2 and 3](https://cylindricalonion.web.cern.ch/blogs/test-beam-tales-days-2-and-3) (the 6th photo) and [Test-beam tales: Days 6 and 7](https://cylindricalonion.web.cern.ch/blogs/test-beam-tales-days-6-and-7) (the last photo)
 
 [2] CERN Courier [Jan/Feb 2019](https://cerncourier.com/wp-content/uploads/2019/04/CERNCourier2019JanFeb-digitaledition.pdf)
