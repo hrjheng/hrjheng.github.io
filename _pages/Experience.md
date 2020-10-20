@@ -46,11 +46,10 @@ I was a teaching assistant for Experimental Physics during my first year of mast
 In addition, I was involved in outreach activities to engage high school students in high energy physics. I worked as a teaching assistant for Professor Gunther M. Roland from MIT in his Machine Learning in High Energy Physics course hosted in Taipei, Taiwan. I provided students clear instructions to learn ROOT and TMVA and helped them connect the physics concepts to the programming language. 
 {: style="text-align: justify;"}
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:40%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:40%">
-<figure>
-  {{ fig_img_GuntherCourse | markdownify | remove: "<p>" | remove: "</p>" }}
+<center><figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:40%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:40%">
   <figcaption>Photos taken in Machine Learning in High Energy Physics course hosted in Taipei, Taiwan</figcaption>
-</figure>
+</figure></center>
 
 As a research assistant for Professor Chia-Ming Kuo, we organized several One-day High Energy physics schools. I translated and modified manuals from S'Cool LAB at CERN and from masterclasses hold by the Quarknet organization. I was capable of explaining advanced knowledge and techniques in a way that high school students understood. Through teaching, I hope to pass on my positive attitude and passion toward research and experiments and inspire younger generations to seek the beauty of physics. 
 
