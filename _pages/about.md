@@ -3,9 +3,10 @@ title: "About"
 permalink: /about/
 ---
 
-Personal <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">CV</a>
+<a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">curriculum vitae</a> (as of Oct. 2020)
 
-- [Before college](#paragraph1)
+--- 
+<!-- - [Before college](#paragraph1)
 - [My college life](#paragraph2)
 
 ## Before college <a name="paragraph1"></a>
@@ -23,7 +24,7 @@ I won the Zhu-Shun Yi He Qin Scholarship, which is one of the highest honor in N
 <figure>
   <img src="/images/The_Zhu_Shun_Yi_He_Qin_Scholarship_photo.png" style="width:70%" class="align-center">
   <figcaption>The photo of the Zhu-Shun Yi He Qin Scholarship award ceremony.</figcaption>
-</figure>
+</figure> -->
 
 <!-- <figure>
   <img src="/images/Course-vs-Grade-Major.png" style="width:70%" class="align-center">
