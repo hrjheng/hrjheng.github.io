@@ -47,7 +47,7 @@ I was also involved in outreach activities to engage high school students in hig
 {: style="text-align: justify;"}
 
 <center><figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:50%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:50%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:48%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:48%">
   <figcaption>Photos taken in Machine Learning in High Energy Physics course hosted in Taipei, Taiwan</figcaption>
 </figure></center>
 
