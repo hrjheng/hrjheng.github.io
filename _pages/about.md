@@ -3,11 +3,13 @@ title: "About"
 permalink: /about/
 ---
 
-<a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">curriculum vitae</a> (as of Oct. 2020)
+I was born in Hualien, a small city in eastern Taiwan. Apart from academic research, I like music, playing basketball, watching movies or drama series on Netflix, playing games with friends, and reading novels. 
 
---- 
+See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">CV</a> (as of Oct. 2020) for more details.
+ 
 <!-- - [Before college](#paragraph1)
 - [My college life](#paragraph2)
+
 
 ## Before college <a name="paragraph1"></a>
 I can still remember the time I spent on this project with my partners and how I enjoyed doing the experiments.
