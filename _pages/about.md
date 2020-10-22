@@ -14,7 +14,8 @@ See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">C
   <!-- <figcaption>Hualien Qixingtan (七星潭) Beach.</figcaption> -->
 </figure></center>
 
---- ## Memorable moments
+--- 
+## Memorable moments
 
 <!-- - [Before college](#paragraph1)
 - [My college life](#paragraph2)
