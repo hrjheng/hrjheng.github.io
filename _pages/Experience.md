@@ -14,7 +14,7 @@ I joined the experimental high energy physics group at National Central Universi
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/CMS-SMP-17-012_Figure_007-d.png" alt="" style="width:50%">
 <figure>
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption>
+  <!-- <figcaption>Fit to nonresonant background using a lowest-order unbiased function to describe the three-body invariant mass distribution observed in data for the Higgs decay channel.</figcaption> -->
 </figure></center>
 
 I am currently working on developing proper simulations of background processes for this search, an important yet missing piece of the current analysis chain. Since the relevant background processes have large cross-sections due to the low di-muon invariant mass, efficient and realistic production of simulated events is a challenge. I implemented generator filters to select events that are similar in both the signal topology and the phase space and was able to bring a significant reduction of cross-sections, making the production of background simulations feasible. This work opens up several possibilities for improvement in the search, such as an advanced event selection optimization or categorization in the analysis with machine learning techniques, foreseeably leading to a better search sensitivity and an eventual observation of this decay channel in the future run of LHC.  
@@ -36,7 +36,7 @@ I participated in the beam-tests for the CMS High Granularity Calorimeter (HGCal
 
 <center><figure>
   <img src="/images/201811-333_01.jpg" style="width:50%" class="align-center">
-  <figcaption>Photo in CERN Courier Jan/Feb 2019 edition.</figcaption>
+  <!-- <figcaption>Photo in CERN Courier Jan/Feb 2019 edition.</figcaption> -->
 </figure></center>
 
 ## Teaching & Outreach
@@ -48,7 +48,7 @@ I was also involved in outreach activities to engage high school students in hig
 
 <center><figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG887.jpeg" style="width:48%"> <img src="{{ site.url }}{{ site.baseurl }}/images/WechatIMG839.jpeg" style="width:48%">
-  <figcaption>Photos taken in Machine Learning in High Energy Physics course hosted in Taipei, Taiwan</figcaption>
+  <!-- <figcaption>Photos taken in Machine Learning in High Energy Physics course hosted in Taipei, Taiwan</figcaption> -->
 </figure></center>
 
 As a research assistant for Professor Chia-Ming Kuo, we organized several One-day High Energy Physics (HEP) schools, the first HEP-related popular science education activity in Taiwan. The initiative of this school is to engage the high school students in particle physics. We designed the structure and material of the school that emphasizes the core competencies such as creativity, independent thinking, and ability in practical problem solving. I translated and modified manuals from S'Cool LAB at CERN and from masterclasses hold by the Quarknet organization. I also made lecture notes and slides and served as the lecturer in the school.  I was capable of explaining advanced knowledge and techniques in a way that high school students understood. Despite exhausting when organizing and preparing the materials for the school, it paid back when I read the honest and warm feedbacks from students on how they were inspired and encouraged by us.
@@ -58,7 +58,7 @@ As a research assistant for Professor Chia-Ming Kuo, we organized several One-da
   <img src="/images/118885811_122758269546802_5343813276513546937_o.jpg" style="width:70%" class="align-center">
   <!-- <figcaption>Photo taken in the One-day HEP school on September 5th, 2020.</figcaption> -->
 </figure></center>
-<center>Photo taken in the One-day HEP school on September 5th, 2020.</center>
+<!-- <center>Photo taken in the One-day HEP school on September 5th, 2020.</center> -->
 
 <!-- To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>): -->
 

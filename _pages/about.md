@@ -10,10 +10,9 @@ See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">C
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/IMG_0016.JPG" alt="" style="width:60%">
 <figure>
-  {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
+  {{ fig_img_Hualien | markdownify | remove: "<p>" | remove: "</p>" }}
   <!-- <figcaption>Hualien Qixingtan (七星潭) Beach.</figcaption> -->
 </figure></center>
-<center>Hualien Qixingtan (七星潭) Beach.</center>
 
 --- ## Memorable moments
 
