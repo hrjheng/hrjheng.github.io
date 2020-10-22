@@ -56,8 +56,9 @@ As a research assistant for Professor Chia-Ming Kuo, we organized several One-da
 
 <center><figure>
   <img src="/images/118885811_122758269546802_5343813276513546937_o.jpg" style="width:70%" class="align-center">
-  <figcaption>Photo taken in the One-day HEP school on September 5th, 2020.</figcaption>
+  <!-- <figcaption>Photo taken in the One-day HEP school on September 5th, 2020.</figcaption> -->
 </figure></center>
+<center>Photo taken in the One-day HEP school on September 5th, 2020.</center>
 
 <!-- To wrap up, here is a summary list of my publications (<a href="https://hrjheng.github.io/pdfs/Selected_publication.pdf" target="_blank">PDF</a>): -->
 
