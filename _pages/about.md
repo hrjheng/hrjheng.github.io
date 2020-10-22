@@ -7,6 +7,13 @@ I was born in Hualien, a small city in eastern Taiwan. Apart from academic resea
 
 See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">CV</a> (as of Oct. 2020) for more details.
  
+
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/IMG_0016.JPG" alt="" style="width:60%">
+<figure>
+  {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Hualien Qixingtan (七星潭) Beach.</figcaption>
+</figure></center>
+
 <!-- - [Before college](#paragraph1)
 - [My college life](#paragraph2)
 
