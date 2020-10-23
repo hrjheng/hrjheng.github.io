@@ -7,7 +7,7 @@ author_profile: true
 mathjax: "true"
 ---
 
-Here is the list of my publications.
+Here is the list of my publications (in reverse chronological order).
 
 - Paper
 
