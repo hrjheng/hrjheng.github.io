@@ -17,14 +17,14 @@ Here is the list of my publications (in reverse chronological order).
 
 - Oral presentation
 
-  1. _(Submitted to 2020 Annual Meeting of the Physical Society of Taiwan)_ One-day High Energy Physics school 一日高能物理學家高中生研習營
+  1. _(Submitted to 2021 Annual Meeting of the Physical Society of Taiwan)_ One-day High Energy Physics school 一日高能物理學家高中生研習營
 
   2. <a href="https://hrjheng.github.io/pdfs/Pheno2019-CMSRareDecays.pdf" target="_blank">Searches for rare decays of the Higgs boson at CMS</a>, Phenomenology Symposium 2019, University of Pittsburgh
 
   3. [Study of Higgs and Z boson decaying into J/&psi; + &gamma; in pp collisions at &radic;s=13TeV](https://hrjheng.github.io/pdfs/Korea_Diboson_20170915.pdf), Taiwan Korea joint workshop on particle physics, Seoul National University
 
 - Poster presentation
-  1. _(Submitted to 2020 Annual Meeting of the Physical Society of Taiwan)_ Energy reconstruction of electrons and electron-pion discrimination with BDT method using data and simulation in the October 2018 test beam of High Granularity Calorimeter
+  1. _(Submitted to 2021 Annual Meeting of the Physical Society of Taiwan)_ Energy reconstruction of electrons and electron-pion discrimination with BDT method using data and simulation in the October 2018 test beam of High Granularity Calorimeter
   2. <a href="https://hrjheng.github.io/pdfs/Poster_TPS2019.pdf" target="_blank">Rare decays of the Higgs boson in the ll&gamma; final states in pp collisions at &radic;s=13 TeV</a>, 2019 Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan
   3. <a href="https://hrjheng.github.io/pdfs/Poster_ICHEP.pdf" target="_blank">Search for Z and Higgs boson decaying into J/&psi; + photon in pp collisions at 13 TeV</a>, 39th International Conference on High Energy Physics (2018), Seoul, Korea
   4. <a href="https://hrjheng.github.io/pdfs/PosterFinal_HaoRen.pdf" target="_blank">Searches for Z and Higgs boson decaying into J/&psi; + &gamma; in pp collisions at &radic;s=13TeV with 2016 data</a>, 2018 Annual Meeting of the Physical Society of Taiwan, National Taiwan University, Taipei, Taiwan
