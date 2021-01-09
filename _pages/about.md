@@ -5,7 +5,7 @@ permalink: /about/
 
 I was born in Hualien, a small city in eastern Taiwan. Apart from academic research, I like music, playing basketball, watching movies or drama series on Netflix, playing games with friends, and reading novels. 
 
-See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">CV</a> (as of Oct. 2020) for more details.
+See my <a href="https://hrjheng.github.io/pdfs/cv_Hao-Ren.pdf" target="_blank">CV</a> (as of Jan. 2021) for more details.
  
 
 <center><figure>
