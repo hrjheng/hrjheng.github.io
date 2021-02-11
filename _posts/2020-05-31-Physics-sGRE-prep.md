@@ -96,16 +96,16 @@ ETS不定期會公布Practice tests，至今為止有六份，
 
 各科目的出題比例對應至percentile的趨勢如下圖。讀者可以觀察，不同難度的題目，各科目的出現頻率是如何改變，而不同年度下又有何不同。
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-fraction-scan.png" style="width:75%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-fraction-scan.png" style="width:85%" class="align-center">
 </figure>
 
 下面兩張圖則是以圓餅圖呈現各年度中不同科目考題的出題比例，上圖的比例計算自全部考題，下圖的比例則來自percentile < 50之考題。
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-Pie-AllQ.png" style="width:75%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-Pie-AllQ.png" style="width:85%" class="align-center">
 </figure>
 
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-Pie-Percentile50Q.png" style="width:75%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-Pie-Percentile50Q.png" style="width:85%" class="align-center">
 </figure>
 
 
