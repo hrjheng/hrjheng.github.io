@@ -92,28 +92,30 @@ ETS不定期會公布Practice tests，至今為止有六份，
 
 很明顯的可以看出越後面的考題有越難和六份考題的平均難度，線性擬合越靠圖上方平均難度越低，反之難度越高。
 
-實際看了一些Percentile很低的題目，發現不少是考粒子物理的一些知識，由於我是做粒子物理實驗，這些題目幾乎都秒選，但對於不是做這方面的學生可能就比較難了。Conquering the Physics GRE裡也有說到，對於粒子物理會考倒的範疇，可以讀這本經典教科書 [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018)。
+實際看了一些Percentile很低的題目，發現不少是考粒子物理的一些知識，由於我的研究領域是粒子物理實驗，這些題目對我來說並非太困難，但對於不同研究領域的學生可能不是如此。Conquering the Physics GRE裡也有說到，對於粒子物理會考到的範疇，可以讀這本經典教科書 [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018)。
 
+各科目的出題比例對應至percentile的趨勢如下圖。讀者可以觀察，不同難度的題目，各科目的出現頻率是如何改變，而不同年度下又有何不同。
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-fraction-scan.png" style="width:50%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-fraction-scan.png" style="width:75%" class="align-center">
+</figure>
+
+下面兩張圖則是以圓餅圖呈現各年度中不同科目考題的出題比例，上圖的比例計算自全部考題，下圖的比例則來自percentile < 50之考題。
+<figure>
+  <img src="/images/sGRE_prep/GR-Percentile-Pie-AllQ.png" style="width:75%" class="align-center">
 </figure>
 
 <figure>
-  <img src="/images/sGRE_prep/GR-Percentile-Pie-AllQ.png" style="width:50%" class="align-center">
-</figure>
-
-<figure>
-  <img src="/images/sGRE_prep/GR-Percentile-Pie-Percentile50Q.png" style="width:50%" class="align-center">
+  <img src="/images/sGRE_prep/GR-Percentile-Pie-Percentile50Q.png" style="width:75%" class="align-center">
 </figure>
 
 
 ## Final words ##
 應該很少人跟我一樣是9月跑到沖繩考試。本來想要趕趕看2019年底申請截止，又怕只報名10月底在台灣的考場[^3]，萬一考不好的話要再考就只能等隔年4月，等於2019年底申請截止完全沒機會，所以硬著頭皮訂了機票民宿出國一趟。我是邊準備TOEFL和GRE general邊準備sGRE的，如果說要算真正全心全意準備sGRE的時間可能也就考完第二次GRE general後到9月中的大概三個禮拜，剛開始準備覺得極度絕望，第一是很多計算或概念太久沒碰都忘記了，第二是想說怎麼可能170分鐘寫完100題，50題可能就得要花兩個小時，還錯一大堆。寫完前兩年的考題後，把錯的題目徹底檢討，忘記的概念或計算再回去複習，接下來寫後面的就“比較”順。但到了考前幾天拿17年考題實際模擬考試的時候，還是不到900，這時不會算或忘記的題目已經很少，錯的還很多都是粗心，超級大崩潰，打電話回家講了一個多小時。正式考前想說有900就好，考試當天其實後面也沒有寫完，猜了很多題，最後可能是猜的很多都對加上粗心不多，看到分數出來有960還重新登出登入好幾次確定我沒看錯，考運少數爆發一次。雖然說最後還是沒能趕上2019年底申請截止，當完兵後重回學校當RA一年，再拼2020年底的申請，希望最後能如願出國念書。
 
-附上考前寫96年考題對完答案錯30題崩潰IG限動
+<!-- 附上考前寫96年考題對完答案錯30題崩潰IG限動
 <figure>
   <img src="/images/sGRE_prep/24522.jpg" style="width:20%" class="align-center">
-</figure>
+</figure> -->
 
 ---
 
