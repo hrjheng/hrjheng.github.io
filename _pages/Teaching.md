@@ -1,6 +1,10 @@
 ---
-title: "About"
-permalink: /about/
+layout: single
+classes: wide
+permalink: /Teaching/
+title: "Teaching"
+author_profile: true
+mathjax: "true"
 ---
 
 I was born in Hualien, a small city in eastern Taiwan. Apart from academic research, I like music, playing basketball, watching movies or drama series on Netflix, playing games with friends, and reading novels. 

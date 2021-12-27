@@ -88,7 +88,7 @@ author:
   avatar           : "/images/IMG_20180707_212427_041.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Taiwan"
-  email            : "haorenjheng21@gmail.com"
+  email            : "hrjheng@mit.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
