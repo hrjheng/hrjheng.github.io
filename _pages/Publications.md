@@ -22,7 +22,7 @@ Here is the list of my publications (in reverse chronological order).
 
 - Oral presentation
 
-  1. _(Accepted at the 2021 Annual Meeting of the Physical Society of Taiwan)_ [One-day High Energy Physics school 一日高能物理學家高中生研習營](https://hrjheng.github.io/pdfs/TPS2021-OnedayHEP-proceeding.pdf)[^2]
+  1. _(Accepted at the 2021 Annual Meeting of the Physical Society of Taiwan)_ [One-Day High Energy Physics school 一日高能物理學家高中生研習營](https://hrjheng.github.io/pdfs/TPS2021-OnedayHEP-proceeding.pdf)[^2]
 
   2. <a href="https://hrjheng.github.io/pdfs/Pheno2019-CMSRareDecays.pdf" target="_blank">Searches for rare decays of the Higgs boson at CMS</a>, Phenomenology Symposium 2019, University of Pittsburgh
 
